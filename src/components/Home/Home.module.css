@@ -1,0 +1,15 @@
+.Home {
+    background: rgb(51,45,145);
+    background: linear-gradient(90deg, rgba(51,45,145,1) 5%, rgba(75,68,210,1) 70%);
+    display: flex;
+    padding-top: 80px;
+    height: 640px;
+    position: relative;
+}
+
+.Home .Container {
+    position: absolute;
+    top: 20%;
+    left: 4%;
+    color: wheat;
+}
